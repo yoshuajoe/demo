@@ -1,6 +1,11 @@
-{
-  "sku":"WM09",
-  "name":"mango",
-  "price":"100",
-  "unit":"9"
-}
+[{
+"sku":"WM09",
+"name":"mango",
+"price":"100",
+"unit":"9"
+},{
+"sku":"WM21",
+"name":"pineapple",
+"price":"600",
+"unit":"99"
+}]
